@@ -23,7 +23,7 @@ The Blinkit Sales & Outlet Performance Dashboard is a comprehensive Power BI das
 This dashboard is intended for business analysts, retail strategists, and executives looking to leverage data for improved decision-making in retail operations.
 
 ## Sample Visuals
-![Blinkit Dashboard](https://drive.google.com/file/d/1QYk-aS8BhynscjNQIMVQIJT81Y18Jnd4/view?usp=drive_link)  
+![Blinkit Dashboard](blinkit dashboard.png)  
 *Example of the Blinkit Sales & Outlet Performance Dashboard in Power BI*
 
 ## How to Use the Dashboard
